@@ -1,0 +1,2 @@
+export const BUY_CHOCOLATE = "BUY_CHOCOLATE";
+export const REMOVE_CHOCOLATE = "REMOVE_CHOCOLATE";
